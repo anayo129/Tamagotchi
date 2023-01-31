@@ -1,0 +1,25 @@
+.pet-container {
+    text-align: center;
+    background-color: #f2f2f2;
+    font-size: 24px;
+  }
+  
+  .pet-actions-container button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .pet-actions-container button:hover {
+    background-color: #3e8e41;
+  }
+  
+  #set-pet-name-button {
+    margin-top: 0;
+  }
+  
+  
+  
